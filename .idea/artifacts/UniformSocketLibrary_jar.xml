@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="UniformSocketLibrary:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UniformSocketLibrary_jar</output-path>
+    <root id="archive" name="UniformSocketLibrary.jar">
+      <element id="module-output" name="UniformSocketLibrary" />
+    </root>
+  </artifact>
+</component>
